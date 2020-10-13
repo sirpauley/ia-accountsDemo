@@ -15,8 +15,5 @@ The business rules are as follow
 account by Acme bank is R500.00
 * This means that a current account can have both positive and negative for withdraw.
 
-### Implementation guidelines:
-* Your job is to write a basic front-end implementation of withdraw and balance.
-
 ## Current interface
 <img src="screenshot.PNG"  width="500"/>
